@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shadowpop/static/css/main.43d5c61a.css",
+    "main.js": "/shadowpop/static/js/main.54549cd6.js",
+    "static/media/logo.png": "/shadowpop/static/media/logo.f441a708d7bd8a7009ea.png",
+    "index.html": "/shadowpop/index.html",
+    "main.43d5c61a.css.map": "/shadowpop/static/css/main.43d5c61a.css.map",
+    "main.54549cd6.js.map": "/shadowpop/static/js/main.54549cd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d5c61a.css",
+    "static/js/main.54549cd6.js"
+  ]
+}
